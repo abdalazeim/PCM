@@ -3,7 +3,7 @@
 
 **ScrennShot**:
 
-     ![ScrennShot](https://github.com/abdalazeim/PCM/blob/master/77.PNG)
+![ScrennShot](https://github.com/abdalazeim/PCM/blob/master/77.PNG)
      
      
      
